@@ -1,0 +1,46 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.custom-shape-divider-top-1666395911 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1666395911 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 139px;
+}
+
+.custom-shape-divider-top-1666395911 .shape-fill {
+    fill: #7F0CE4;
+}
+body
+{
+background-color:#0016FF ;
+}
+h1
+{
+    color:#ffffff
+}
